@@ -40,7 +40,3 @@ POM.XML
 2. Jackson dependency for wrapper object.
 3. Google gson library for json parsing of wrapper object.
 4. Springforx for swagger api.
-
-Execution steps -
-1) mvn clean package -> It will create a jar file in target folder.
-2) java -jar FieldConditionStatisticsServices.jar  -> Then execute jar
