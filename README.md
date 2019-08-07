@@ -40,3 +40,9 @@ POM.XML
 2. Jackson dependency for wrapper object.
 3. Google gson library for json parsing of wrapper object.
 4. Springforx for swagger api.
+
+Project build -
+a) mvn package - It will create FieldConditionStatisticsServices.jar in target folder.
+b) java -jar FieldConditionStatisticsServices.jar  -- Execute it using command prompt.
+OR
+a)It is a SpringBoot project and can be simply executed as a java project from FieldConditionStatisticsStarter.java class
